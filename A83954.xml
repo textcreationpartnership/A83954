@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands deadly disease to bee sick of a king. Or Religions iust complaint against her enemies the hereticks, who call the Diety [sic] into question. And revoke their covenant, scornfully to have it hanged lower in the steeple-houses, for dogs to pisse upon &amp;c. Licensed according to order of both Houses of Parliam.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83954</idno>
+            <idno type="STC">Wing E2956</idno>
+            <idno type="STC">Thomason E412_33</idno>
+            <idno type="STC">ESTC R9529</idno>
+            <idno type="EEBO-CITATION">99873565</idno>
+            <idno type="PROQUEST">99873565</idno>
+            <idno type="VID">161263</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83954)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161263)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E412[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands deadly disease to bee sick of a king. Or Religions iust complaint against her enemies the hereticks, who call the Diety [sic] into question. And revoke their covenant, scornfully to have it hanged lower in the steeple-houses, for dogs to pisse upon &amp;c. Licensed according to order of both Houses of Parliam.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Lindsey, and are to be sold at his shop overagainst [sic] London-stone,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161263:1" rendition="simple:additions"/>
+            <p>ENGLANDS Deadly Diſeaſe to bee Sick of a KING.</p>
+            <p>OR Religions iuſt Complaint againſt her Enemies the Hereticks, who call the Diety into Queſtion.</p>
+            <p>AND Revoke their Covenant, ſcornfully to have it hanged lower in the Steeple-houſes, for Dogs to piſſe upon &amp;c.</p>
+            <p>Licenced according to Order of both Houſes of Parliam.</p>
+            <p>LONDON, Printed for <hi>George Lindſey,</hi> and are to be ſold at his Shop over againſt <hi>London</hi>-ſtone, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161263:2"/>
+            <pb n="1" facs="tcp:161263:2"/>
+            <head>A Iuſt complaint of true Religion againſt ENGLAND.</head>
+            <p>
+               <seg rend="decorInit">O</seg> 
+               <hi>England! England!</hi> To thee I do direct my ſpeech, againſt thee I do complaine. Then heare mee thou filthy adultereſſe, haſt thou no other pretext, but me to au<g ref="char:EOLhyphen"/>thorize thy treacheries? None elſe but me to colour thy Treaſons? Shall I beare the blame of thy diſobediences to God and thy lawfull King? Say ſtrumpet wilt thou make mee a mother to thy whore<g ref="char:EOLhyphen"/>domes, wilt thou that I ſupport thy ſhameleſſe Apo<g ref="char:EOLhyphen"/>ſtaſies, art thou not aſhamed to ſay, that it is for my cauſe that thou committeſt ſuch robberies? Is it for my honour (as thou ſayeſt) that thou commit ſuch murthers, and bloodſhed? Have I been at any time, the mother of oppreſſions? Or the upholder of Sedi<g ref="char:EOLhyphen"/>tions? Or the conſenter to Conſpiracies, doſt thou not know the contrary? That all theſe things bee a<g ref="char:EOLhyphen"/>gainſt my heart? Doth not kingdumes ſtand by mee? Doe not I Onely I, make man acceptable to God? There can bee nothing more hatefull to mee, then thy filthy defections. Hath any of thy neighbour Nati<g ref="char:EOLhyphen"/>tions done ſuch affronts to mee as thou haſt done? For thou haſt ſtript mee naked, rob'd mee of all my Ornaments, pulled downe and diſhonoured my ſtate<g ref="char:EOLhyphen"/>ly dwe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lings: killed my ſervants<g ref="char:punc">▪</g> baniſhed all my wellwillers, and now doſt thou go about to baniſh my ſelfe.
+<pb n="2" facs="tcp:161263:3"/>Unparalleld ingratefull conſider, and remember of the happy eſtate all the time that I was maintained and re<g ref="char:EOLhyphen"/>ſpected by thee. So long as you did honour me, didſt thou lack for any thing? Waſt thou not admired? For thy beauty, riches, glory, ſtrength, and manhood. Was there any of thy neighbours could compare to thee in theſe things? Could any Nobility compare with thine for glory? Could any Gentry compare with thine for rich<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s? Could any Marchants compare with thine in gaines by their traffique? Was not <hi>England</hi> honou<g ref="char:EOLhyphen"/>red, reſpected, and made welcome to all Nations? Was not <hi>England</hi> both loved and feared of all her neigh<g ref="char:EOLhyphen"/>bours? But now open thine eyes and look upon thy diſ<g ref="char:EOLhyphen"/>figured eſtate. Thou art become frantick and out of thy wits. Thou art now become miſerable, infamous, ty<g ref="char:EOLhyphen"/>ranized and oppreſſed by thy own ſelfe? Doth not thy own Sword (which of old was a terrour and a conquer<g ref="char:EOLhyphen"/>our of others) now pierce thy owne bowels? Doth not thy own homicidiers m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcileſſe hands make thine own children fatherleſſe? Thou ſtopſt thine eares at the pittifull cries of the poore widdowes and oppreſſed. Thou diſdaineſt the lamentable cryes of the poor. Thou haſt opened thy dores to all deteſtfull Vice and haſt ba<g ref="char:EOLhyphen"/>niſhed Vertue, thou art become barbarous, and doſt hate all civility, thy onely pleaſure is to commit murther: and thou takeſt delight to diſobey and tread under foot the holy Lawes of my God, thou art drunk with inno<g ref="char:EOLhyphen"/>cent blood, and yet thou doſt ſtill thruſt forward, thou doſt eſteeme it thy greateſt praiſe to oppreſſe thy neigh<g ref="char:EOLhyphen"/>bours, and thou art not aſhamed to proclaime unto the world, that it is for my ſake, that thou committeſt ſacri<g ref="char:EOLhyphen"/>ledge. Filthy apoſtat look upon thy ſelf and conſider thy
+<pb n="3" facs="tcp:161263:3"/>eſtate now what it is, and what it was when I was main<g ref="char:EOLhyphen"/>tained in thy territories, where thou waſt then beautifull. Thou art now filthy, ſtinking, and loathſome, thy glory is turned to ſhame, thy riches are turned to penury, thy ſtrength is turned to feebleneſſe, and thy manhood to cowardice, and thou art become a by-word and laughing ſtock to all Nations. When the children of <hi>Iſrael</hi> did fall fro<g ref="char:cmbAbbrStroke">̄</g> God and me, with the gold and Iewels they took from the <hi>Egyptians</hi> they did convert into a golden Calf, and for this the Lord my God did plague them. Haſt thou not done the like with thy Gold and Silver, thou haſt bought a ſword to kill thy own ſelf. Rememb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r what hath been done in thy ſiſter <hi>Germany</hi> for her co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tempt of mee, looke for no better no, and if it were not for the honour and reſpect that I carry to that godly well inclyned Prince thy King, thy caſe ſhould be worſe then hers. For I do know that that King ſhall reſtore mee to all my rights, and apparell, and that hee ſhall re<g ref="char:EOLhyphen"/>edify my ruined houſes, and reſtore my exiled ſe vants and welwillers to their wonted liberties. Let not t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thy diſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbling ſeducers look for a better reward, then ſuch as <hi>Baal</hi> his Prieſts had, for deceiving <hi>Iſrael.</hi> And bid them remember that viſib<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e deſtruction that came upon them who did ſtrive againſt Gods Ordinance and againſt <hi>A on.</hi> Do not think that the al-ſeei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g eye of my God ſleepeth. No, no: the innocent blood <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f thy mur<g ref="char:EOLhyphen"/>thers cryes (from the earth, as did that of <hi>Abell</hi>) for a vengeance againſt thee. Thy inhumane of preſſions of the poore, of the widow, and fatherleſſe, whoſe pitious cryes thou diſdaines: the Lord my God doth hear, &amp; my Siſter Iuſtice, whom thou haſt baniſhed, is now in heave<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, plea<g ref="char:EOLhyphen"/>ding for the Poore againſt thee. Hath not my God forbid
+<pb n="4" facs="tcp:161263:4"/>to touch his Annoynted and do his Prophets no wrong? But thou reſpectleſſe ſtrumpet makes no Conſcience to abuſe the Lords Annointed, and to kill the Prophets. For ſince the time of thy filthy backſlidings from mee, thou makeſt no Conſcience of thy wayes. Thou canſt do no more to fill thy cup full to the brim with thy abomina<g ref="char:EOLhyphen"/>tions, but woe bee unto them when it ſhall be full, for thou ſhalt be forced to drink up all thy filthy perjuries, blaſphemies, abominations, murders, and poyſonable he<g ref="char:EOLhyphen"/>reſies, allowed of, invented, forged, &amp; maintained by thee, to the diſhonour of my God, and diſpraiſe of mee, thou art become ſenceleſſe, and thy underſtanding is departed from thee, Doſt thou not remember that when the evill ſpirit did undertake to perſwade <hi>Ahab</hi> to fall by the ſword of the children of <hi>Ammon,</hi> was it not by beeing a lying ſpirit in the mouthes of his Prophets? And hath not thy Prophets ſeduced thee to fall upon thy own ſword doſt thou not perceive that there is a heavy judgement comming from the Lord my God upon thee? Art thou blind, or doſt thou not regard the viſible threatnings of the Lord my God for the contempt of mee? Art thou become ſo inſolent, as to ſlight the wrath of the Almigh<g ref="char:EOLhyphen"/>ty? Thou haſt and doſt proclaime thy ſelf open enemy to all civility and civill government, denying thy duty to God, and thy King, refuſing all Religion and right rule, ſuſpending, ſubverting, and ſuppreſſing all ſpirutall Paſtors and godly learned men, maintaining hereſies, A<g ref="char:EOLhyphen"/>theiſme, and ungodly livers in their roomes, doſt thou look for a fearfull end, and that thou ſha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t be made a ſpectacle and a viſible example to all Nations for this, a ke but thoſe of thy commerſe what difference there is between thy eſtate now, and the time that I had my
+<pb n="5" facs="tcp:161263:4"/>peaceable habitation with thee, aske thy tradeſmen, what alteration there is now of their eſtate? And thoſe who got their living by their handwork, I ſay aske them what loſſe they find at the weeks end. Let every one in their ſeverall callings beare witneſſe with mee to this truth. And ſince thou haſt caſt mee off, following after thy inchanting, ſeducing lovers. What haſt thou gained? any thing elſe, but that thou hadſt purchaſed hundreds of yeeres before, thou haſt ſpent all in theſe 7 yeeres of thy licenſious living, denying thy duty to God and thy King, and forſaking mee. Thou mayſt be compared un<g ref="char:EOLhyphen"/>to an adultereſſe woman who had ſpent all her husbands riches with her new lovers. And now when thou begin<g ref="char:EOLhyphen"/>eſt to be poore, thy lovers who hath inriched themſelves with thy goods, doth now diſdaine thee and laugh thee to ſcorne, if thou have no more monies, they ſhall ſtrip thee, and rather pitty thy nakedneſſe, then commiſerate thy eſtate, but ſhall utterly undo thee, if thou diſaſſent to their deſires. Art thou bereft of ſence, or depraved of eyes, that doſt rather fall then ſee thy own wreched e<g ref="char:EOLhyphen"/>ſtate: that (thoſe whom thou hired to bee the executi<g ref="char:EOLhyphen"/>oners of thy malice againſt them whom thou intended to undo) are now become thy ſhame like unto <hi>Hamans</hi> gallowes, that hang'd his maſter: be not thy hirelings become thy maſters, thy bond ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvants, thy Comman<g ref="char:EOLhyphen"/>ders: hath the like been done in any other Country that is done in thee? It is a thing to be wondered at, that thou haſt ſuch heart to do ſuch unlawfull things, as to preſſe to depoſe thy lawfull Prince, to ſubvert Religion, and to kill thy ſelfe, and haſt not the courage to with<g ref="char:EOLhyphen"/>ſtand the cruelties of thy domeſtique enemies, nor to gainſay their impriſoning Ordinances, nor to refuſe their unreaſonable demands.</p>
+            <pb n="6" facs="tcp:161263:5"/>
+            <p> O miſerable wretch! more then miſerable, how long wilt thou halt between two opinions? If the Lord be God follow him, if <hi>Baal</hi> be God follow him. Thou hadſt once wit: thou hadſt judgement, thou hadſt un<g ref="char:EOLhyphen"/>derſtanding, thou hadſt once valour to withſtand the power of Nations: call to mind the proſperous ſuc<g ref="char:EOLhyphen"/>ceſſe thou haſt had to reſiſt the invaſions of Kingdoms, and not only to reſiſt, but overcome victoriouſly, wit<g ref="char:EOLhyphen"/>neſſe <hi>France</hi> and <hi>Scotland,</hi> where in one day thou hadſt the glorious victory of two battels, and took both their Kings priſoners, art thou not <hi>England</hi> now as thou waſt then? The number of thy fighting men and armes be rather augmented then diminiſhed. Thou lackeſt no<g ref="char:EOLhyphen"/>thing but courage. Then heed, and take my counſell, I love thee, and am ſorry for thy diſaſter, for all thy rigour uſed againſt mee, returne then to thy wonted obe<g ref="char:EOLhyphen"/>dience to God and to thy lawfull King and to mee. And try if the Lord will not give thee a bleſſing, and will make good all thy loſſes, and reſtore thee to thy won<g ref="char:EOLhyphen"/>ted happineſſe, ſo that thy withered branches ſhall yet bud and bring forth the wonted pleaſant fruits, ſtop then thine eares at thy ſeducing inchanters, hearken no more to their flattering alluring intiſings, but take courage, and ſhake off the heavy intollerable burden of ſlaviſh bondage, and turne to the Lord thy God, and let mee have my own accuſtomed liberty, that my ſiſter juſtice come againe and injoy his wonted Prerogatives, and thou ſhalt ſee how the Lord ſhall caſt thy ſcourge into the fire, and eaſe thee, as the loving father did his forlorne child. The Lord my God give thee eyes to ſee, a heart to un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſtand, judgment to diſcerne, and to choſe the beſt that thy fall be not perpetuall. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>JOHN DOVVNAME.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
